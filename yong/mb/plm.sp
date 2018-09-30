@@ -203,6 +203,11 @@ pian pj
 qian qj
 tian tj
 xian xj
+niang nq
+liang lq
+jiang jq
+qiang qq
+xiang xq
 biao bm
 diao dm
 fiao fm
