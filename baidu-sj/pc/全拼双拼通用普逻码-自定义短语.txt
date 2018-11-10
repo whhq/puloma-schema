@@ -20829,6 +20829,7 @@
 1,nennt=嫰
 1,nenx=恁
 1,neo=呢
+1,neop=哪
 1,neoq=吶
 1,ney=讷
 1,neyq=訥
@@ -24476,7 +24477,8 @@
 1,qukq=筁
 1,quks=籧
 1,qukt=袪
-1,qul=劬
+1,qul=曲
+1,qulc=劬
 1,qulp=朐
 1,qulq=竘
 1,quls=竬
@@ -24522,7 +24524,6 @@
 1,qup=屈
 1,qupp=磲
 1,quqq=欪
-1,qur=曲
 1,qus=去
 1,qusc=岖
 1,qusd=祛
